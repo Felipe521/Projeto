@@ -1,4 +1,3 @@
-// LojaApp.java
 public class LojaApp {
     public static void main(String[] args) {
         System.out.println("Bem-vindo à Loja Virtual!\n");
